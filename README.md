@@ -88,7 +88,10 @@ The JavaScript file handles:
 [GitHub Profile](https://github.com/paul-srijan)
 
 ---
+## 🤝 Contributing
+Contributions are welcome! Please fork the repository and make a pull request to contribute.
 
+---
 ## Connect with Me
 
 Feel free to connect with me on my other platforms for updates, queries, or collaborations!
