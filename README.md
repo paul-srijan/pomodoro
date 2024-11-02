@@ -101,7 +101,5 @@ Feel free to connect with me on my other platforms for updates, queries, or coll
 
 ---
 
----
-
 Happy Productivity! 🍅
-```
+
