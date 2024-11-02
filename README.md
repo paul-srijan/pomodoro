@@ -1,4 +1,4 @@
-```markdown
+
 # 🍅 Pomodoro Timer
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
